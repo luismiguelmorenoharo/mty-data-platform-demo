@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+fastapi
+uvicorn
+scikit-learn
+xgboost
