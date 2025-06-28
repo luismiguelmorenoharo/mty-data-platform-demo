@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# MacOS system files
+.DS_Store
+
+# Virtual environments
+venv311/
+venv/
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files you might not want in repo
+*.zip
