@@ -1,0 +1,12 @@
+order_id,store_id,restaurant_name,borough,item_name,category,price,quantity,order_datetime
+100000,1001,Thai Express,Downtown,Curry Delight,Curry,11.50,2,2025-01-01 12:30
+100001,1001,Thai Express,Downtown,Curry Delight,Curry,11.50,1,2025-01-01 13:45
+100002,1002,Sushi Shop,Plateau,Dragon Roll,Maki,13.00,3,2025-01-01 14:10
+100003,1003,Tandori,Verdun,Butter Chicken,Curry,14.00,1,2025-01-02 12:00
+100004,1004,Vanellis,Rosemont,Spaghetti Alfredo,Pasta,12.00,2,2025-01-02 18:45
+100005,1005,La Crémière,Hochelaga,Vanilla Cone,4.00,4,2025-01-02 16:00
+100006,1006,Cultures,Villeray,Chicken Caesar Wrap,Wrap,9.00,1,2025-01-03 12:20
+100007,1007,Yogen Früz,Griffintown,Strawberry Froyo,Frozen Yogurt,5.50,2,2025-01-03 15:15
+100008,1008,Bâton Rouge,Saint-Laurent,Filet Mignon,Steak,28.00,1,2025-01-03 19:00
+100009,1009,Koya Japan,Outremont,Chicken Teriyaki,Teriyaki,12.50,2,2025-01-04 13:05
+100010,1010,Au Vieux Duluth Express,Côte-des-Neiges,Classic Gyro,Gyro,10.00,3,2025-01-04 14:30
